@@ -1,0 +1,29 @@
+
+.navbar-title{
+	color: white;
+	font-family:verdana;
+}
+.nav-link{
+	color:white;
+	font-family:verdana;
+}
+
+.navbar{	
+	background-color:#29a3a3;
+}
+.navbar-brand{
+	float:left;
+
+}
+.nav-link{
+	float:right;
+}
+
+nav a:hover {
+	color:darkgrey;
+}
+
+.fa-facebook-square:hover{
+	color:darkblue;
+
+}

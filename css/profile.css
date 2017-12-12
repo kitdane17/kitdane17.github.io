@@ -1,0 +1,39 @@
+body{
+	background: url("../imgs/marb.png") no-repeat center center fixed;
+	background-size:cover;
+}
+
+.nyc {
+	max-width:100%;
+
+}
+.card-title{
+	text-align: center;
+}
+
+.card{
+	background-color:rgba(224, 224, 224, 0.5);
+	margin-top:20px;
+}
+.card-footer{
+	background-color:rgba(224, 224, 224, 0.5);
+}
+
+.my-icons{
+	font-size:30px;
+	color: :#29a3a3;
+}
+
+.ntu{
+	font-size:20px;
+	font-family:verdana;
+}
+.location{
+	font-size:20px;
+	font-family:verdana;
+}
+
+.card-title{
+	font-size:20px;
+	font-family:verdana;
+}

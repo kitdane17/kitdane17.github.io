@@ -1,0 +1,12 @@
+body{
+	background: url("../imgs/marb.png") no-repeat center center fixed;
+	background-size:cover;
+}
+
+.title1{
+	font-family:verdana;
+	font-size:55px;
+	margin-top:65vh;
+	color:#29a3a3;
+	text-align: center;
+}
